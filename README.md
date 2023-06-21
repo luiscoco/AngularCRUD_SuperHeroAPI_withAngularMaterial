@@ -1,5 +1,7 @@
 # SuperHero.UI
 
+The video explaining the code is available in this URL: https://www.youtube.com/watch?v=a4SFciAUXFo
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
